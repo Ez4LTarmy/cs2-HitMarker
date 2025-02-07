@@ -5,7 +5,7 @@ namespace HitMarker;
 
 public class Config : IBasePluginConfig
 {
-    public string Particle { get; set; } = "particles/upkk/normalshot.vpcf";
+    public string Particle { get; set; } = "particles/exg/exg_hitmarker2.vpcf";
     public int Version { get; set; } = 1;
 }
 
